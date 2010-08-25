@@ -1,0 +1,11 @@
+README
+
+This is an exercise in learning the R graphics package ggplot2 by
+visualizing and comparing the batting careers of Sachin Tendulkar and 
+Virender Sehwag, two of the most exciting cricket batsmen India has
+produced. 
+
+Innings-by-innings data for both batsmen are scraped from the Cricinfo
+(http://www.cricinfo.com) Statsguru data query engine.
+
+
